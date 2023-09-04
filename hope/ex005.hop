@@ -1,0 +1,4 @@
+uses ex004;
+dec produto : num # num -> num;
+
+--- produto (a, b) <= a * b;

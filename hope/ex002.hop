@@ -1,0 +1,3 @@
+dec ant : num -> num;
+
+--- ant x <= x - 1;

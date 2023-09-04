@@ -1,0 +1,3 @@
+dec cubo : num -> num;
+
+--- cubo x <= pow (x, 2);

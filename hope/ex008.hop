@@ -1,0 +1,4 @@
+uses ex007;
+dec squad : num # num -> num;
+
+--- squad (a, b) <= a + b;

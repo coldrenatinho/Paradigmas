@@ -1,0 +1,4 @@
+uses ex002;
+dec qsoma : num # num -> num;
+
+--- qsoma (x, y) <= pow (x, y);

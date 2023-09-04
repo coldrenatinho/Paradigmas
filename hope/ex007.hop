@@ -1,0 +1,4 @@
+uses ex006;
+dec dolar : num # num -> num;
+
+--- dolar (real, dolar) <= real / dolar;

@@ -1,0 +1,22 @@
+dec media3 : num # num # num -> num;
+dec somaMoedas : num # num # num # num # num -> num;
+dec volumeEsfera : num -> num;
+dec xor1 : truval # truval -> truval;
+dec rota : list num -> list num;
+dec tail : list num -> list num;
+dec head : list num -> num;
+
+--- media3 (x, y, z) <= (x + y + z) / 3;
+
+--- somaMoedas (a, b, c, d, e) <= 1 * a + 2 * b + 5 * c + 10 * d + 20 * e;
+
+--- volumeEsfera r <= 4 / 3 * pi * pow (r, 3);
+
+--- xor1 (true, true) <= false;
+--- xor1 (true, false) <= true;
+--- xor1 (false, true) <= true;
+--- xor1 (false, false) <= false;
+
+--- tail (x :: xs) <= xs;
+
+--- head (x :: xs) <= x;
